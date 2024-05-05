@@ -1,4 +1,4 @@
-<mxfile modified="2024-05-05T15:29:54.721Z" host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="9NO5ONx6mD4E-vlkOffl" version="24.3.1" type="github">
+<mxfile modified="2024-05-05T15:32:39.202Z" host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="iAI7cU9WhOOXvFmZFcwj" version="24.3.1" type="github">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
     <mxGraphModel dx="3071" dy="1342" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -164,6 +164,9 @@
         </mxCell>
         <mxCell id="kexQ-gtVu2NPN6oHLh2J-28" value="App Servers" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="860" y="600" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kexQ-gtVu2NPN6oHLh2J-29" value="NOSQL DB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="945" y="188" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
