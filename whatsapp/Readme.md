@@ -5,5 +5,4 @@ Whatsapp like design
 4. A message from User_NorthAmerica to User_APAC is essentially a routing between 2 chat servers located in different regions of the world
 5. 
 
-
-https://github.com/karthikkashyap/systemdesign/blob/e166f6855bb57b25a3a2ca21ec8786e4218f620b/whatsapp/whatsapp.drawio.png 
+![image](https://github.com/karthikkashyap/systemdesign/assets/336732/d9d67eb0-f785-44cc-80ad-96a609d43d9a)
